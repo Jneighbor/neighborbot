@@ -1,0 +1,20 @@
+{
+    "127598324252409856" : {
+        "MENTION" : "@everyone"
+    },
+    "353426722835922946" : {
+        "AUTODELETE" : false,
+        "MENTION" : "@everyone"
+    },
+    "372447873281032192" : {
+        "AUTODELETE" : true,
+        "MENTION" : "@everyone"
+    },
+    "400469957470715909" : {
+        "MENTION" : ""
+    },
+    "434089099226251274" : {
+        "MENTION" : "@everyone"
+    },
+    "TWITCH_TOKEN" : "stcxazsvjrw37gm8yod6664yk93a1d"
+}

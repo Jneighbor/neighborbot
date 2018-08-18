@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "142872588207521792",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "."
+    ],
+    "TOKEN" : "NDMzNzg5MzM2MjMyNjU2ODk4.DbA9fA.peRMPafcxaBenz2wap8FM6SevxE",
+    "default" : {
+        "ADMIN_ROLE" : "The Married Neighbors",
+        "MOD_ROLE" : "default",
+        "PREFIXES" : []
+    }
+}
